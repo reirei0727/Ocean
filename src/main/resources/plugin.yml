@@ -1,0 +1,4 @@
+name: Ocean
+version: '${project.version}'
+main: ocean.ocean.Ocean
+api-version: 1.18

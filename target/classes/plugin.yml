@@ -1,0 +1,4 @@
+name: Ocean
+version: '1.0-SNAPSHOT'
+main: ocean.ocean.Ocean
+api-version: 1.18
